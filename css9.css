@@ -1,0 +1,21 @@
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-spacing: 2px;
+}
+table tr{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+table tr th {
+    border-width: 1px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+table tr td {
+    border-width: 1px;
+    border-style: solid;
+    border-color: blueviolet;
+}

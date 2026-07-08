@@ -1,0 +1,26 @@
+ p {color: blue;}
+         body{ background-color: gray; } 
+         b{
+             color: red;
+         }
+         i {
+            color:purple;
+         }
+         u{
+            color:green
+         }
+         ul li {
+            color:orange
+         }
+         ol li {
+            color:pink
+        
+         }
+         /*comentario para classes*/
+         .primeiro_item{
+            color:aqua
+         }
+         /*cpmentario para ids */
+         #ultimo_item{
+            color:aquamarine
+         }
