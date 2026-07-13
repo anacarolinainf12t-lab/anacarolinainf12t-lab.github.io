@@ -1,0 +1,39 @@
+#linha01{
+    background-color:blue;
+    width:150px;
+    color:white
+}
+    #linha02{
+    background-color:pink;
+    width:150px;
+    color:white
+}
+#linha03{
+    background-color:violet;
+    width:150px;
+    color:white
+}
+#geral{
+    background-color: aquamarine;
+    width: 150px;
+}
+
+#geral #coluna01{
+    background-color:blue;
+    width: 35%;
+    height: 10%;
+    float: left;
+}
+  #geral #coluna02{
+    background-color:rgb(255, 0, 212);
+    width: 35%;
+    height: 10%;
+    float: left;
+}
+    #geral #coluna03{
+    background-color:rgb(39, 37, 37);
+    width: 35%;
+    height: 10%;
+     /*float: left;*/
+    clear: both;
+}
