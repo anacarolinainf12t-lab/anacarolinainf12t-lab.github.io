@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Bolo 23 anos</title>
+
+</head>
+<body>
+<img url= ".png">
+<div class="cake">
+
+    <div class="candles">
+        <div class="candle"><div class="num">2</div></div>
+        <div class="candle"><div class="num">3</div></div>
+    </div>
+
+    <div class="layer layer3"></div>
+    <div class="layer layer2"></div>
+    <div class="layer layer1"></div>
+
+    <div class="bite"></div>
+
+</div>
+
+</body>
+</html>
